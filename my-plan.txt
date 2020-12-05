@@ -4,6 +4,7 @@ My Fictional Plan
     a. 1a
     b. 1b
         > Django
+        > Pandas
 2. Plan 2
 3. Plan 3 new
 4. Plan 4
