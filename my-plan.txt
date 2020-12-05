@@ -1,8 +1,9 @@
 My Fictional Plan
-0. Plan 0
 1. Plan 1
     a. 1a
     b. 1b
+        > Flask
+        > Pandas
 2. Plan 2
 3. Plan 3 new
 4. Plan 4
